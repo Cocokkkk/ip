@@ -1,4 +1,4 @@
-package ip.duke;
+package ip.duke.command;
 
 import ip.duke.task.Deadline;
 import ip.duke.task.Event;

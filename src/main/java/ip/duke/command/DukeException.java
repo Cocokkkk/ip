@@ -1,4 +1,4 @@
-package ip.duke;
+package ip.duke.command;
 
 public class DukeException extends Exception{
     protected String category;
